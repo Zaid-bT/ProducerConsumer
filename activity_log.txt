@@ -1,0 +1,455 @@
+[04:24:17] Waiter 1 placed Order#10 | produced: 1 | avg wait: 0.00s
+[04:24:17] Waiter 1 served Order#10 | consumed: 1 | avg wait: 0.00s
+[04:24:17] Waiter 2 placed Order#20 | produced: 1 | avg wait: 0.00s
+[04:24:17] Simulation started.
+[04:24:17] Waiter 2 served Order#20 | consumed: 1 | avg wait: 0.00s
+[04:24:18] Waiter 1 placed Order#11 | produced: 2 | avg wait: 0.00s
+[04:24:18] Waiter 2 placed Order#21 | produced: 2 | avg wait: 0.00s
+[04:24:18] Waiter 1 served Order#11 | consumed: 2 | avg wait: 0.00s
+[04:24:18] Waiter 2 served Order#21 | consumed: 2 | avg wait: 0.00s
+[04:24:19] Waiter 1 placed Order#12 | produced: 3 | avg wait: 0.00s
+[04:24:19] Waiter 2 placed Order#22 | produced: 3 | avg wait: 0.00s
+[04:24:19] Waiter 1 served Order#12 | consumed: 3 | avg wait: 0.00s
+[04:24:19] Waiter 2 served Order#22 | consumed: 3 | avg wait: 0.00s
+[04:24:20] Waiter 1 placed Order#13 | produced: 4 | avg wait: 0.00s
+[04:24:20] Waiter 1 served Order#13 | consumed: 4 | avg wait: 0.00s
+[04:24:20] Waiter 2 placed Order#23 | produced: 4 | avg wait: 0.00s
+[04:24:20] Waiter 2 served Order#23 | consumed: 4 | avg wait: 0.00s
+[04:24:21] Waiter 1 placed Order#14 | produced: 5 | avg wait: 0.00s
+[04:24:21] Waiter 1 served Order#14 | consumed: 5 | avg wait: 0.00s
+[04:24:21] Waiter 2 served Order#24 | consumed: 5 | avg wait: 0.00s
+[04:24:21] Waiter 2 placed Order#24 | produced: 5 | avg wait: 0.00s
+[04:24:22] Waiter 1 finished shift.
+[04:24:22] Waiter 1 finished shift.
+[04:24:22] Waiter 2 finished shift.
+[04:24:22] Waiter 2 finished shift.
+[04:24:25] Simulation paused.
+[04:24:32] Simulation resumed.
+[04:24:42] Stop signal sent — waiting for threads to finish...
+[04:24:42] All threads finished. Simulation stopped.
+[04:24:45] Waiter 2 placed Order#20 | produced: 1 | avg wait: 0.00s
+[04:24:45] Waiter 1 served Order#20 | consumed: 1 | avg wait: 0.00s
+[04:24:45] Waiter 1 placed Order#10 | produced: 1 | avg wait: 0.00s
+[04:24:45] Waiter 2 served Order#10 | consumed: 1 | avg wait: 0.00s
+[04:24:45] Simulation started.
+[04:24:50] Waiter 2 placed Order#21 | produced: 2 | avg wait: 0.00s
+[04:24:50] Waiter 2 served Order#21 | consumed: 2 | avg wait: 0.00s
+[04:24:50] Waiter 1 placed Order#11 | produced: 2 | avg wait: 0.00s
+[04:24:50] Waiter 1 served Order#11 | consumed: 2 | avg wait: 0.00s
+[04:24:55] Waiter 2 placed Order#22 | produced: 3 | avg wait: 0.00s
+[04:24:55] Waiter 2 served Order#22 | consumed: 3 | avg wait: 0.00s
+[04:24:55] Waiter 1 placed Order#12 | produced: 3 | avg wait: 0.00s
+[04:24:55] Waiter 1 served Order#12 | consumed: 3 | avg wait: 0.00s
+[04:24:56] Simulation paused.
+[04:24:59] Simulation resumed.
+[04:25:00] Simulation paused.
+[04:25:00] Waiter 1 placed Order#13 | produced: 4 | avg wait: 0.00s
+[04:25:00] Waiter 2 served Order#13 | consumed: 4 | avg wait: 0.00s
+[04:25:00] Waiter 2 placed Order#23 | produced: 4 | avg wait: 0.00s
+[04:25:00] Waiter 1 served Order#23 | consumed: 4 | avg wait: 0.00s
+[04:25:01] Waiter 1 placed Order#14 | produced: 5 | avg wait: 0.00s
+[04:25:01] Waiter 2 served Order#14 | consumed: 5 | avg wait: 0.00s
+[04:25:01] Waiter 2 placed Order#24 | produced: 5 | avg wait: 0.00s
+[04:25:01] Waiter 1 served Order#24 | consumed: 5 | avg wait: 0.00s
+[04:25:02] Waiter 1 finished shift.
+[04:25:02] Waiter 1 finished shift.
+[04:25:02] Waiter 2 finished shift.
+[04:25:02] Waiter 2 finished shift.
+[04:25:18] Simulation resumed.
+[04:25:21] Simulation paused.
+[04:25:23] Stop signal sent — waiting for threads to finish...
+[04:25:23] All threads finished. Simulation stopped.
+[04:25:36] Waiter 1 placed Order#10 | produced: 1 | avg wait: 0.00s
+[04:25:36] Simulation started.
+[04:25:36] Waiter 1 served Order#10 | consumed: 1 | avg wait: 0.00s
+[04:25:36] Waiter 2 served Order#20 | consumed: 1 | avg wait: 0.00s
+[04:25:36] Waiter 2 placed Order#20 | produced: 1 | avg wait: 0.00s
+[04:25:41] Waiter 1 placed Order#11 | produced: 2 | avg wait: 0.00s
+[04:25:41] Waiter 1 served Order#11 | consumed: 2 | avg wait: 0.00s
+[04:25:41] Waiter 2 placed Order#21 | produced: 2 | avg wait: 0.00s
+[04:25:41] Waiter 2 served Order#21 | consumed: 2 | avg wait: 0.00s
+[04:25:46] Waiter 1 placed Order#12 | produced: 3 | avg wait: 0.00s
+[04:25:46] Waiter 2 placed Order#22 | produced: 3 | avg wait: 0.00s
+[04:25:46] Waiter 2 served Order#22 | consumed: 3 | avg wait: 0.00s
+[04:25:46] Waiter 1 served Order#12 | consumed: 3 | avg wait: 0.00s
+[04:25:51] Waiter 1 placed Order#13 | produced: 4 | avg wait: 0.00s
+[04:25:51] Waiter 2 placed Order#23 | produced: 4 | avg wait: 0.00s
+[04:25:51] Waiter 2 served Order#13 | consumed: 4 | avg wait: 0.00s
+[04:25:51] Waiter 1 served Order#23 | consumed: 4 | avg wait: 0.00s
+[04:25:51] Simulation paused.
+[04:25:54] Stop signal sent — waiting for threads to finish...
+[04:25:56] Waiter 1 finished shift.
+[04:25:56] Waiter 2 finished shift.
+[04:25:56] Waiter 1 finished shift.
+[04:25:56] Waiter 2 finished shift.
+[04:25:56] All threads finished. Simulation stopped.
+[04:27:35] Waiter 1 placed Order#10 | produced: 1 | avg wait: 0.00s
+[04:27:35] Waiter 3 placed Order#30 | produced: 1 | avg wait: 0.00s
+[04:27:35] Waiter 5 placed Order#50 | produced: 1 | avg wait: 0.00s
+[04:27:35] Waiter 4 placed Order#40 | produced: 1 | avg wait: 0.00s
+[04:27:35] Waiter 2 placed Order#20 | produced: 1 | avg wait: 0.00s
+[04:27:35] Waiter 1 served Order#10 | consumed: 1 | avg wait: 0.00s
+[04:27:35] Waiter 6 placed Order#60 | produced: 1 | avg wait: 0.00s
+[04:27:35] Waiter 2 served Order#20 | consumed: 1 | avg wait: 0.00s
+[04:27:35] Waiter 4 served Order#40 | consumed: 1 | avg wait: 0.00s
+[04:27:35] Waiter 3 served Order#30 | consumed: 1 | avg wait: 0.00s
+[04:27:35] Waiter 8 placed Order#80 | produced: 1 | avg wait: 0.00s
+[04:27:35] Waiter 8 served Order#80 | consumed: 1 | avg wait: 0.00s
+[04:27:35] Waiter 9 placed Order#90 | produced: 1 | avg wait: 0.00s
+[04:27:35] Waiter 5 served Order#50 | consumed: 1 | avg wait: 0.00s
+[04:27:35] Waiter 10 placed Order#100 | produced: 1 | avg wait: 0.00s
+[04:27:35] Waiter 6 served Order#60 | consumed: 1 | avg wait: 0.00s
+[04:27:35] Waiter 7 served Order#70 | consumed: 1 | avg wait: 0.00s
+[04:27:35] Waiter 7 placed Order#70 | produced: 1 | avg wait: 0.00s
+[04:27:35] Waiter 9 served Order#90 | consumed: 1 | avg wait: 0.00s
+[04:27:35] Simulation started.
+[04:27:35] Waiter 10 served Order#100 | consumed: 1 | avg wait: 0.00s
+[04:27:36] Waiter 1 placed Order#11 | produced: 2 | avg wait: 0.00s
+[04:27:36] Waiter 3 placed Order#31 | produced: 2 | avg wait: 0.00s
+[04:27:36] Waiter 5 placed Order#51 | produced: 2 | avg wait: 0.00s
+[04:27:36] Waiter 4 placed Order#41 | produced: 2 | avg wait: 0.00s
+[04:27:36] Waiter 2 placed Order#21 | produced: 2 | avg wait: 0.00s
+[04:27:36] Waiter 1 served Order#11 | consumed: 2 | avg wait: 0.00s
+[04:27:36] Waiter 6 placed Order#61 | produced: 2 | avg wait: 0.00s
+[04:27:36] Waiter 2 served Order#31 | consumed: 2 | avg wait: 0.00s
+[04:27:36] Waiter 4 served Order#51 | consumed: 2 | avg wait: 0.00s
+[04:27:36] Waiter 3 served Order#41 | consumed: 2 | avg wait: 0.00s
+[04:27:36] Waiter 8 placed Order#81 | produced: 2 | avg wait: 0.00s
+[04:27:36] Waiter 8 served Order#21 | consumed: 2 | avg wait: 0.00s
+[04:27:36] Waiter 9 placed Order#91 | produced: 2 | avg wait: 0.00s
+[04:27:36] Waiter 5 served Order#61 | consumed: 2 | avg wait: 0.00s
+[04:27:36] Waiter 10 placed Order#101 | produced: 2 | avg wait: 0.00s
+[04:27:36] Waiter 6 served Order#81 | consumed: 2 | avg wait: 0.00s
+[04:27:36] Waiter 7 served Order#91 | consumed: 2 | avg wait: 0.00s
+[04:27:36] Waiter 7 placed Order#71 | produced: 2 | avg wait: 0.00s
+[04:27:36] Waiter 9 served Order#101 | consumed: 2 | avg wait: 0.00s
+[04:27:36] Waiter 10 served Order#71 | consumed: 2 | avg wait: 0.00s
+[04:27:37] Waiter 1 placed Order#12 | produced: 3 | avg wait: 0.00s
+[04:27:37] Waiter 3 placed Order#32 | produced: 3 | avg wait: 0.00s
+[04:27:37] Waiter 4 placed Order#42 | produced: 3 | avg wait: 0.00s
+[04:27:37] Waiter 5 placed Order#52 | produced: 3 | avg wait: 0.00s
+[04:27:37] Waiter 2 placed Order#22 | produced: 3 | avg wait: 0.00s
+[04:27:37] Waiter 1 served Order#12 | consumed: 3 | avg wait: 0.00s
+[04:27:37] Waiter 6 placed Order#62 | produced: 3 | avg wait: 0.00s
+[04:27:37] Waiter 2 served Order#32 | consumed: 3 | avg wait: 0.00s
+[04:27:37] Waiter 4 served Order#52 | consumed: 3 | avg wait: 0.00s
+[04:27:37] Waiter 3 served Order#42 | consumed: 3 | avg wait: 0.00s
+[04:27:37] Waiter 8 placed Order#82 | produced: 3 | avg wait: 0.00s
+[04:27:37] Waiter 8 served Order#22 | consumed: 3 | avg wait: 0.00s
+[04:27:37] Waiter 9 placed Order#92 | produced: 3 | avg wait: 0.00s
+[04:27:37] Waiter 5 served Order#62 | consumed: 3 | avg wait: 0.00s
+[04:27:37] Waiter 10 placed Order#102 | produced: 3 | avg wait: 0.00s
+[04:27:37] Waiter 6 served Order#82 | consumed: 3 | avg wait: 0.00s
+[04:27:37] Waiter 7 served Order#92 | consumed: 3 | avg wait: 0.00s
+[04:27:37] Waiter 7 placed Order#72 | produced: 3 | avg wait: 0.00s
+[04:27:37] Waiter 9 served Order#102 | consumed: 3 | avg wait: 0.00s
+[04:27:37] Waiter 10 served Order#72 | consumed: 3 | avg wait: 0.00s
+[04:27:38] Waiter 1 placed Order#13 | produced: 4 | avg wait: 0.00s
+[04:27:38] Waiter 3 placed Order#33 | produced: 4 | avg wait: 0.00s
+[04:27:38] Waiter 5 placed Order#53 | produced: 4 | avg wait: 0.00s
+[04:27:38] Waiter 4 placed Order#43 | produced: 4 | avg wait: 0.00s
+[04:27:38] Waiter 2 placed Order#23 | produced: 4 | avg wait: 0.00s
+[04:27:38] Waiter 1 served Order#13 | consumed: 4 | avg wait: 0.00s
+[04:27:38] Waiter 6 placed Order#63 | produced: 4 | avg wait: 0.00s
+[04:27:38] Waiter 2 served Order#33 | consumed: 4 | avg wait: 0.00s
+[04:27:38] Waiter 4 served Order#53 | consumed: 4 | avg wait: 0.00s
+[04:27:38] Waiter 3 served Order#43 | consumed: 4 | avg wait: 0.00s
+[04:27:38] Waiter 8 placed Order#83 | produced: 4 | avg wait: 0.00s
+[04:27:38] Waiter 8 served Order#23 | consumed: 4 | avg wait: 0.00s
+[04:27:38] Waiter 9 placed Order#93 | produced: 4 | avg wait: 0.00s
+[04:27:38] Waiter 5 served Order#63 | consumed: 4 | avg wait: 0.00s
+[04:27:38] Waiter 10 placed Order#103 | produced: 4 | avg wait: 0.00s
+[04:27:38] Waiter 6 served Order#83 | consumed: 4 | avg wait: 0.00s
+[04:27:38] Waiter 7 served Order#93 | consumed: 4 | avg wait: 0.00s
+[04:27:38] Waiter 7 placed Order#73 | produced: 4 | avg wait: 0.00s
+[04:27:38] Waiter 9 served Order#103 | consumed: 4 | avg wait: 0.00s
+[04:27:38] Waiter 10 served Order#73 | consumed: 4 | avg wait: 0.00s
+[04:27:39] Waiter 1 placed Order#14 | produced: 5 | avg wait: 0.00s
+[04:27:39] Waiter 5 placed Order#54 | produced: 5 | avg wait: 0.00s
+[04:27:39] Waiter 3 placed Order#34 | produced: 5 | avg wait: 0.00s
+[04:27:39] Waiter 4 placed Order#44 | produced: 5 | avg wait: 0.00s
+[04:27:39] Waiter 1 served Order#14 | consumed: 5 | avg wait: 0.00s
+[04:27:39] Waiter 2 placed Order#24 | produced: 5 | avg wait: 0.00s
+[04:27:39] Waiter 2 served Order#34 | consumed: 5 | avg wait: 0.00s
+[04:27:39] Waiter 6 placed Order#64 | produced: 5 | avg wait: 0.00s
+[04:27:39] Waiter 3 served Order#54 | consumed: 5 | avg wait: 0.00s
+[04:27:39] Waiter 8 served Order#44 | consumed: 5 | avg wait: 0.00s
+[04:27:39] Waiter 8 placed Order#84 | produced: 5 | avg wait: 0.00s
+[04:27:39] Waiter 4 served Order#24 | consumed: 5 | avg wait: 0.00s
+[04:27:39] Waiter 9 placed Order#94 | produced: 5 | avg wait: 0.00s
+[04:27:39] Waiter 5 served Order#64 | consumed: 5 | avg wait: 0.00s
+[04:27:39] Waiter 10 placed Order#104 | produced: 5 | avg wait: 0.00s
+[04:27:39] Waiter 6 served Order#84 | consumed: 5 | avg wait: 0.00s
+[04:27:39] Waiter 7 served Order#94 | consumed: 5 | avg wait: 0.00s
+[04:27:39] Waiter 7 placed Order#74 | produced: 5 | avg wait: 0.00s
+[04:27:39] Waiter 9 served Order#104 | consumed: 5 | avg wait: 0.00s
+[04:27:39] Waiter 10 served Order#74 | consumed: 5 | avg wait: 0.00s
+[04:27:40] Waiter 1 finished shift.
+[04:27:40] Waiter 4 finished shift.
+[04:27:40] Waiter 5 finished shift.
+[04:27:40] Waiter 3 finished shift.
+[04:27:40] Waiter 2 finished shift.
+[04:27:40] Waiter 1 finished shift.
+[04:27:40] Waiter 6 finished shift.
+[04:27:40] Waiter 2 finished shift.
+[04:27:40] Waiter 3 finished shift.
+[04:27:40] Waiter 8 finished shift.
+[04:27:40] Waiter 4 finished shift.
+[04:27:40] Waiter 8 finished shift.
+[04:27:40] Waiter 9 finished shift.
+[04:27:40] Waiter 10 finished shift.
+[04:27:40] Waiter 5 finished shift.
+[04:27:40] Waiter 6 finished shift.
+[04:27:40] Waiter 7 finished shift.
+[04:27:40] Waiter 7 finished shift.
+[04:27:40] Waiter 10 finished shift.
+[04:27:40] Waiter 9 finished shift.
+[04:27:50] Simulation paused.
+[04:27:51] Stop signal sent — waiting for threads to finish...
+[04:27:51] All threads finished. Simulation stopped.
+[04:29:17] Waiter 1 placed Order#10 | produced: 1 | avg wait: 0.00s
+[04:29:17] Waiter 3 placed Order#30 | produced: 1 | avg wait: 0.00s
+[04:29:17] Waiter 5 placed Order#50 | produced: 1 | avg wait: 0.00s
+[04:29:17] Waiter 4 placed Order#40 | produced: 1 | avg wait: 0.00s
+[04:29:17] Waiter 2 placed Order#20 | produced: 1 | avg wait: 0.00s
+[04:29:17] Waiter 1 served Order#10 | consumed: 1 | avg wait: 0.00s
+[04:29:17] Waiter 2 served Order#30 | consumed: 1 | avg wait: 0.00s
+[04:29:17] Waiter 9 placed Order#90 | produced: 1 | avg wait: 0.00s
+[04:29:17] Waiter 10 placed Order#100 | produced: 1 | avg wait: 0.00s
+[04:29:17] Waiter 3 served Order#20 | consumed: 1 | avg wait: 0.00s
+[04:29:17] Waiter 9 served Order#90 | consumed: 1 | avg wait: 0.00s
+[04:29:17] Waiter 8 placed Order#80 | produced: 1 | avg wait: 0.00s
+[04:29:17] Waiter 5 served Order#50 | consumed: 1 | avg wait: 0.00s
+[04:29:17] Waiter 6 placed Order#60 | produced: 1 | avg wait: 0.00s
+[04:29:17] Waiter 6 served Order#60 | consumed: 1 | avg wait: 0.00s
+[04:29:17] Waiter 7 placed Order#70 | produced: 1 | avg wait: 0.00s
+[04:29:17] Waiter 7 served Order#70 | consumed: 1 | avg wait: 0.00s
+[04:29:17] Waiter 8 served Order#80 | consumed: 1 | avg wait: 0.00s
+[04:29:17] Simulation started.
+[04:29:17] Waiter 4 served Order#40 | consumed: 1 | avg wait: 0.00s
+[04:29:17] Waiter 10 served Order#100 | consumed: 1 | avg wait: 0.00s
+[04:29:18] Waiter 1 placed Order#11 | produced: 2 | avg wait: 0.00s
+[04:29:18] Waiter 3 placed Order#31 | produced: 2 | avg wait: 0.00s
+[04:29:18] Waiter 5 placed Order#51 | produced: 2 | avg wait: 0.00s
+[04:29:18] Waiter 4 placed Order#41 | produced: 2 | avg wait: 0.00s
+[04:29:18] Waiter 2 placed Order#21 | produced: 2 | avg wait: 0.00s
+[04:29:18] Waiter 1 served Order#11 | consumed: 2 | avg wait: 0.00s
+[04:29:18] Waiter 2 served Order#31 | consumed: 2 | avg wait: 0.00s
+[04:29:18] Waiter 9 placed Order#91 | produced: 2 | avg wait: 0.00s
+[04:29:18] Waiter 10 placed Order#101 | produced: 2 | avg wait: 0.00s
+[04:29:18] Waiter 3 served Order#51 | consumed: 2 | avg wait: 0.00s
+[04:29:18] Waiter 9 served Order#41 | consumed: 2 | avg wait: 0.00s
+[04:29:18] Waiter 8 placed Order#81 | produced: 2 | avg wait: 0.00s
+[04:29:18] Waiter 6 placed Order#61 | produced: 2 | avg wait: 0.00s
+[04:29:18] Waiter 5 served Order#21 | consumed: 2 | avg wait: 0.00s
+[04:29:18] Waiter 6 served Order#91 | consumed: 2 | avg wait: 0.00s
+[04:29:18] Waiter 7 placed Order#71 | produced: 2 | avg wait: 0.00s
+[04:29:18] Waiter 7 served Order#101 | consumed: 2 | avg wait: 0.00s
+[04:29:18] Waiter 8 served Order#81 | consumed: 2 | avg wait: 0.00s
+[04:29:18] Waiter 4 served Order#61 | consumed: 2 | avg wait: 0.00s
+[04:29:18] Waiter 10 served Order#71 | consumed: 2 | avg wait: 0.00s
+[04:29:19] Waiter 1 placed Order#12 | produced: 3 | avg wait: 0.00s
+[04:29:19] Waiter 4 placed Order#42 | produced: 3 | avg wait: 0.00s
+[04:29:19] Waiter 3 placed Order#32 | produced: 3 | avg wait: 0.00s
+[04:29:19] Waiter 2 placed Order#22 | produced: 3 | avg wait: 0.00s
+[04:29:19] Waiter 5 placed Order#52 | produced: 3 | avg wait: 0.00s
+[04:29:19] Waiter 1 served Order#12 | consumed: 3 | avg wait: 0.00s
+[04:29:19] Waiter 2 served Order#32 | consumed: 3 | avg wait: 0.00s
+[04:29:19] Waiter 9 placed Order#92 | produced: 3 | avg wait: 0.00s
+[04:29:19] Waiter 10 placed Order#102 | produced: 3 | avg wait: 0.00s
+[04:29:19] Waiter 3 served Order#52 | consumed: 3 | avg wait: 0.00s
+[04:29:19] Waiter 9 served Order#42 | consumed: 3 | avg wait: 0.00s
+[04:29:19] Waiter 8 placed Order#82 | produced: 3 | avg wait: 0.00s
+[04:29:19] Waiter 5 served Order#22 | consumed: 3 | avg wait: 0.00s
+[04:29:19] Waiter 6 placed Order#62 | produced: 3 | avg wait: 0.00s
+[04:29:19] Waiter 6 served Order#92 | consumed: 3 | avg wait: 0.00s
+[04:29:19] Waiter 7 placed Order#72 | produced: 3 | avg wait: 0.00s
+[04:29:19] Waiter 8 served Order#82 | consumed: 3 | avg wait: 0.00s
+[04:29:19] Waiter 7 served Order#102 | consumed: 3 | avg wait: 0.00s
+[04:29:19] Waiter 4 served Order#62 | consumed: 3 | avg wait: 0.00s
+[04:29:19] Waiter 10 served Order#72 | consumed: 3 | avg wait: 0.00s
+[04:29:20] Waiter 1 placed Order#13 | produced: 4 | avg wait: 0.00s
+[04:29:20] Waiter 4 placed Order#43 | produced: 4 | avg wait: 0.00s
+[04:29:20] Waiter 3 placed Order#33 | produced: 4 | avg wait: 0.00s
+[04:29:20] Waiter 2 placed Order#23 | produced: 4 | avg wait: 0.00s
+[04:29:20] Waiter 1 served Order#13 | consumed: 4 | avg wait: 0.00s
+[04:29:20] Waiter 5 placed Order#53 | produced: 4 | avg wait: 0.00s
+[04:29:20] Waiter 2 served Order#43 | consumed: 4 | avg wait: 0.00s
+[04:29:20] Waiter 9 placed Order#93 | produced: 4 | avg wait: 0.00s
+[04:29:20] Waiter 10 placed Order#103 | produced: 4 | avg wait: 0.00s
+[04:29:20] Waiter 3 served Order#33 | consumed: 4 | avg wait: 0.00s
+[04:29:20] Waiter 9 served Order#23 | consumed: 4 | avg wait: 0.00s
+[04:29:20] Waiter 5 served Order#53 | consumed: 4 | avg wait: 0.00s
+[04:29:20] Waiter 8 placed Order#83 | produced: 4 | avg wait: 0.00s
+[04:29:20] Waiter 6 placed Order#63 | produced: 4 | avg wait: 0.00s
+[04:29:20] Waiter 6 served Order#93 | consumed: 4 | avg wait: 0.00s
+[04:29:20] Waiter 7 placed Order#73 | produced: 4 | avg wait: 0.00s
+[04:29:20] Waiter 8 served Order#103 | consumed: 4 | avg wait: 0.00s
+[04:29:20] Waiter 7 served Order#83 | consumed: 4 | avg wait: 0.00s
+[04:29:20] Waiter 4 served Order#63 | consumed: 4 | avg wait: 0.00s
+[04:29:20] Waiter 10 served Order#73 | consumed: 4 | avg wait: 0.00s
+[04:29:20] Simulation paused.
+[04:29:21] Waiter 1 placed Order#14 | produced: 5 | avg wait: 0.00s
+[04:29:21] Waiter 4 placed Order#44 | produced: 5 | avg wait: 0.00s
+[04:29:21] Waiter 2 placed Order#24 | produced: 5 | avg wait: 0.00s
+[04:29:21] Waiter 3 placed Order#34 | produced: 5 | avg wait: 0.00s
+[04:29:21] Waiter 5 placed Order#54 | produced: 5 | avg wait: 0.00s
+[04:29:21] Waiter 1 served Order#14 | consumed: 5 | avg wait: 0.00s
+[04:29:21] Waiter 2 served Order#44 | consumed: 5 | avg wait: 0.00s
+[04:29:21] Waiter 9 placed Order#94 | produced: 5 | avg wait: 0.00s
+[04:29:21] Waiter 10 placed Order#104 | produced: 5 | avg wait: 0.00s
+[04:29:21] Waiter 3 served Order#34 | consumed: 5 | avg wait: 0.00s
+[04:29:21] Waiter 9 served Order#24 | consumed: 5 | avg wait: 0.00s
+[04:29:21] Waiter 5 served Order#54 | consumed: 5 | avg wait: 0.00s
+[04:29:21] Waiter 8 placed Order#84 | produced: 5 | avg wait: 0.00s
+[04:29:21] Waiter 6 placed Order#64 | produced: 5 | avg wait: 0.00s
+[04:29:21] Waiter 6 served Order#94 | consumed: 5 | avg wait: 0.00s
+[04:29:21] Waiter 7 placed Order#74 | produced: 5 | avg wait: 0.00s
+[04:29:21] Waiter 8 served Order#104 | consumed: 5 | avg wait: 0.00s
+[04:29:21] Waiter 4 served Order#64 | consumed: 5 | avg wait: 0.00s
+[04:29:21] Waiter 10 served Order#84 | consumed: 5 | avg wait: 0.00s
+[04:29:21] Waiter 7 served Order#74 | consumed: 5 | avg wait: 0.00s
+[04:29:22] Waiter 4 placed Order#45 | produced: 6 | avg wait: 0.00s
+[04:29:22] Waiter 1 placed Order#15 | produced: 6 | avg wait: 0.00s
+[04:29:22] Waiter 2 placed Order#25 | produced: 6 | avg wait: 0.00s
+[04:29:22] Waiter 3 placed Order#35 | produced: 6 | avg wait: 0.00s
+[04:29:22] Waiter 5 placed Order#55 | produced: 6 | avg wait: 0.00s
+[04:29:22] Waiter 1 served Order#15 | consumed: 6 | avg wait: 0.00s
+[04:29:22] Waiter 2 served Order#45 | consumed: 6 | avg wait: 0.00s
+[04:29:22] Waiter 3 served Order#25 | consumed: 6 | avg wait: 0.00s
+[04:29:22] Waiter 9 placed Order#95 | produced: 6 | avg wait: 0.00s
+[04:29:22] Waiter 10 placed Order#105 | produced: 6 | avg wait: 0.00s
+[04:29:22] Waiter 9 served Order#35 | consumed: 6 | avg wait: 0.00s
+[04:29:22] Waiter 5 served Order#55 | consumed: 6 | avg wait: 0.00s
+[04:29:22] Waiter 6 placed Order#65 | produced: 6 | avg wait: 0.00s
+[04:29:22] Waiter 8 placed Order#85 | produced: 6 | avg wait: 0.00s
+[04:29:22] Waiter 7 placed Order#75 | produced: 6 | avg wait: 0.00s
+[04:29:22] Waiter 6 served Order#95 | consumed: 6 | avg wait: 0.00s
+[04:29:22] Waiter 8 served Order#105 | consumed: 6 | avg wait: 0.00s
+[04:29:22] Waiter 10 served Order#85 | consumed: 6 | avg wait: 0.00s
+[04:29:22] Waiter 4 served Order#65 | consumed: 6 | avg wait: 0.00s
+[04:29:22] Waiter 7 served Order#75 | consumed: 6 | avg wait: 0.00s
+[04:29:23] Waiter 3 placed Order#36 | produced: 7 | avg wait: 0.00s
+[04:29:23] Waiter 2 placed Order#26 | produced: 7 | avg wait: 0.00s
+[04:29:23] Waiter 1 placed Order#16 | produced: 7 | avg wait: 0.00s
+[04:29:23] Waiter 2 served Order#26 | consumed: 7 | avg wait: 0.00s
+[04:29:23] Waiter 5 placed Order#56 | produced: 7 | avg wait: 0.00s
+[04:29:23] Waiter 3 served Order#36 | consumed: 7 | avg wait: 0.00s
+[04:29:23] Waiter 4 placed Order#46 | produced: 7 | avg wait: 0.00s
+[04:29:23] Waiter 1 served Order#46 | consumed: 7 | avg wait: 0.00s
+[04:29:23] Waiter 9 placed Order#96 | produced: 7 | avg wait: 0.00s
+[04:29:23] Waiter 10 placed Order#106 | produced: 7 | avg wait: 0.00s
+[04:29:23] Waiter 9 served Order#16 | consumed: 7 | avg wait: 0.00s
+[04:29:23] Waiter 5 served Order#56 | consumed: 7 | avg wait: 0.00s
+[04:29:23] Waiter 6 placed Order#66 | produced: 7 | avg wait: 0.00s
+[04:29:23] Waiter 8 placed Order#86 | produced: 7 | avg wait: 0.00s
+[04:29:23] Waiter 7 placed Order#76 | produced: 7 | avg wait: 0.00s
+[04:29:23] Waiter 6 served Order#96 | consumed: 7 | avg wait: 0.00s
+[04:29:23] Waiter 8 served Order#106 | consumed: 7 | avg wait: 0.00s
+[04:29:23] Waiter 10 served Order#66 | consumed: 7 | avg wait: 0.00s
+[04:29:23] Waiter 4 served Order#86 | consumed: 7 | avg wait: 0.00s
+[04:29:23] Waiter 7 served Order#76 | consumed: 7 | avg wait: 0.00s
+[04:29:24] Waiter 2 placed Order#27 | produced: 8 | avg wait: 0.00s
+[04:29:24] Waiter 3 placed Order#37 | produced: 8 | avg wait: 0.00s
+[04:29:24] Waiter 1 placed Order#17 | produced: 8 | avg wait: 0.00s
+[04:29:24] Waiter 4 placed Order#47 | produced: 8 | avg wait: 0.00s
+[04:29:24] Waiter 5 placed Order#57 | produced: 8 | avg wait: 0.00s
+[04:29:24] Waiter 9 placed Order#97 | produced: 8 | avg wait: 0.00s
+[04:29:24] Waiter 10 placed Order#107 | produced: 8 | avg wait: 0.00s
+[04:29:24] Waiter 5 served Order#27 | consumed: 8 | avg wait: 0.00s
+[04:29:24] Waiter 1 served Order#17 | consumed: 8 | avg wait: 0.00s
+[04:29:24] Waiter 2 served Order#37 | consumed: 8 | avg wait: 0.00s
+[04:29:24] Waiter 6 placed Order#67 | produced: 8 | avg wait: 0.00s
+[04:29:24] Waiter 6 served Order#47 | consumed: 8 | avg wait: 0.00s
+[04:29:24] Waiter 9 served Order#97 | consumed: 8 | avg wait: 0.00s
+[04:29:24] Waiter 7 placed Order#77 | produced: 8 | avg wait: 0.00s
+[04:29:24] Waiter 4 served Order#67 | consumed: 8 | avg wait: 0.00s
+[04:29:24] Waiter 8 placed Order#87 | produced: 8 | avg wait: 0.00s
+[04:29:24] Waiter 10 served Order#87 | consumed: 8 | avg wait: 0.00s
+[04:29:24] Waiter 3 served Order#107 | consumed: 8 | avg wait: 0.00s
+[04:29:24] Waiter 7 served Order#77 | consumed: 8 | avg wait: 0.00s
+[04:29:24] Waiter 8 served Order#57 | consumed: 8 | avg wait: 0.00s
+[04:29:25] Waiter 2 placed Order#28 | produced: 9 | avg wait: 0.00s
+[04:29:25] Waiter 4 placed Order#48 | produced: 9 | avg wait: 0.00s
+[04:29:25] Waiter 1 placed Order#18 | produced: 9 | avg wait: 0.00s
+[04:29:25] Waiter 2 served Order#28 | consumed: 9 | avg wait: 0.00s
+[04:29:25] Waiter 3 placed Order#38 | produced: 9 | avg wait: 0.00s
+[04:29:25] Waiter 5 placed Order#58 | produced: 9 | avg wait: 0.00s
+[04:29:25] Waiter 9 placed Order#98 | produced: 9 | avg wait: 0.00s
+[04:29:25] Waiter 1 served Order#18 | consumed: 9 | avg wait: 0.00s
+[04:29:25] Waiter 5 served Order#38 | consumed: 9 | avg wait: 0.00s
+[04:29:25] Waiter 6 served Order#48 | consumed: 9 | avg wait: 0.00s
+[04:29:25] Waiter 6 placed Order#68 | produced: 9 | avg wait: 0.00s
+[04:29:25] Waiter 10 placed Order#108 | produced: 9 | avg wait: 0.00s
+[04:29:25] Waiter 10 served Order#98 | consumed: 9 | avg wait: 0.00s
+[04:29:25] Waiter 9 served Order#58 | consumed: 9 | avg wait: 0.00s
+[04:29:25] Waiter 4 served Order#68 | consumed: 9 | avg wait: 0.00s
+[04:29:25] Waiter 8 placed Order#88 | produced: 9 | avg wait: 0.00s
+[04:29:25] Waiter 7 placed Order#78 | produced: 9 | avg wait: 0.00s
+[04:29:25] Waiter 3 served Order#108 | consumed: 9 | avg wait: 0.00s
+[04:29:25] Waiter 7 served Order#88 | consumed: 9 | avg wait: 0.00s
+[04:29:25] Waiter 8 served Order#78 | consumed: 9 | avg wait: 0.00s
+[04:29:26] Waiter 2 placed Order#29 | produced: 10 | avg wait: 0.00s
+[04:29:26] Waiter 4 placed Order#49 | produced: 10 | avg wait: 0.00s
+[04:29:26] Waiter 9 placed Order#99 | produced: 10 | avg wait: 0.00s
+[04:29:26] Waiter 1 placed Order#19 | produced: 10 | avg wait: 0.00s
+[04:29:26] Waiter 6 placed Order#69 | produced: 10 | avg wait: 0.00s
+[04:29:26] Waiter 2 served Order#29 | consumed: 10 | avg wait: 0.00s
+[23:29:26] Waiter 5 placed Order#59 | produced: 10 | avg wait: 0.00s
+[04:29:26] Waiter 5 served Order#49 | consumed: 10 | avg wait: 0.00s
+[04:29:26] Waiter 10 served Order#39 | consumed: 10 | avg wait: 0.00s
+[04:29:26] Waiter 1 served Order#99 | consumed: 10 | avg wait: 0.00s
+[04:29:26] Waiter 7 placed Order#79 | produced: 10 | avg wait: 0.00s
+[04:29:26] Waiter 10 placed Order#109 | produced: 10 | avg wait: 0.00s
+[04:29:26] Waiter 3 placed Order#39 | produced: 10 | avg wait: 0.00s
+[04:29:26] Waiter 6 served Order#19 | consumed: 10 | avg wait: 0.00s
+[04:29:26] Waiter 8 placed Order#89 | produced: 10 | avg wait: 0.00s
+[04:29:26] Waiter 4 served Order#69 | consumed: 10 | avg wait: 0.00s
+[04:29:26] Waiter 8 served Order#79 | consumed: 10 | avg wait: 0.00s
+[04:29:26] Waiter 3 served Order#89 | consumed: 10 | avg wait: 0.00s
+[04:29:26] Waiter 7 served Order#109 | consumed: 10 | avg wait: 0.00s
+[04:29:26] Waiter 9 served Order#59 | consumed: 10 | avg wait: 0.00s
+[04:29:26] Stop signal sent — waiting for threads to finish...
+[04:29:27] Waiter 2 finished shift.
+[04:29:27] Waiter 4 finished shift.
+[04:29:27] Waiter 9 finished shift.
+[04:29:27] Waiter 6 finished shift.
+[04:29:27] Waiter 1 finished shift.
+[04:29:27] Waiter 2 finished shift.
+[04:29:27] Waiter 5 finished shift.
+[04:29:27] Waiter 5 finished shift.
+[04:29:27] Waiter 10 finished shift.
+[04:29:27] Waiter 1 finished shift.
+[04:29:27] Waiter 3 finished shift.
+[04:29:27] Waiter 6 finished shift.
+[04:29:27] Waiter 7 finished shift.
+[04:29:27] Waiter 8 finished shift.
+[04:29:27] Waiter 3 finished shift.
+[04:29:27] Waiter 4 finished shift.
+[04:29:27] Waiter 7 finished shift.
+[04:29:27] Waiter 9 finished shift.
+[04:29:27] Waiter 10 finished shift.
+[04:29:27] Waiter 8 finished shift.
+[04:29:27] All threads finished. Simulation stopped.
+[04:29:33] Waiter 2 placed Order#20 | produced: 1 | avg wait: 0.00s
+[04:29:33] Waiter 3 placed Order#30 | produced: 1 | avg wait: 0.00s
+[04:29:33] Waiter 4 placed Order#40 | produced: 1 | avg wait: 0.00s
+[04:29:33] Waiter 5 placed Order#50 | produced: 1 | avg wait: 0.00s
+[04:29:33] Waiter 1 placed Order#10 | produced: 1 | avg wait: 0.00s
+[04:29:33] Waiter 1 served Order#20 | consumed: 1 | avg wait: 0.00s
+[04:29:33] Waiter 7 placed Order#70 | produced: 1 | avg wait: 0.00s
+[04:29:33] Waiter 4 served Order#30 | consumed: 1 | avg wait: 0.00s
+[04:29:33] Simulation started.
+[04:29:33] Waiter 2 served Order#50 | consumed: 1 | avg wait: 0.00s
+[04:29:33] Waiter 3 served Order#40 | consumed: 1 | avg wait: 0.00s
+[04:29:33] Waiter 10 placed Order#100 | produced: 1 | avg wait: 0.00s
+[04:29:33] Waiter 6 placed Order#60 | produced: 1 | avg wait: 0.00s
+[04:29:33] Waiter 6 served Order#10 | consumed: 1 | avg wait: 0.00s
+[04:29:33] Waiter 7 served Order#70 | consumed: 1 | avg wait: 0.00s
+[04:29:33] Waiter 9 served Order#100 | consumed: 1 | avg wait: 0.00s
+[04:29:33] Waiter 8 served Order#60 | consumed: 1 | avg wait: 0.00s
+[04:29:33] Waiter 8 placed Order#80 | produced: 1 | avg wait: 0.00s
+[04:29:33] Waiter 5 served Order#80 | consumed: 1 | avg wait: 0.00s
+[04:29:33] Waiter 9 placed Order#90 | produced: 1 | avg wait: 0.00s
+[04:29:33] Waiter 10 served Order#90 | consumed: 1 | avg wait: 0.00s
+[04:29:36] Stop signal sent — waiting for threads to finish...

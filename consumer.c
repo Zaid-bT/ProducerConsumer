@@ -1,19 +1,19 @@
-#include <stdio.h>
 #define _POSIX_C_SOURCE 199309L //fixed CLOCK_MONOTONIC error
+#include <stdio.h>
 #include <time.h>
 #include <unistd.h>
 #include "buffer.h"
 #include "consumer.h"
 #include "logger.h"
 
-#define ITEMS_PER_CONSUMER 5  // match items_limit in chef.c
+//#define ITEMS_PER_CONSUMER 5  // match items_limit in chef.c
 
 extern volatile int stop_flag;  // set by main/GUI to stop threads
 
 void* consumer(void* arg) {
     thread_stats* stats = (thread_stats*)arg;
 
-    for (int i = 0; i < ITEMS_PER_CONSUMER && !stop_flag; i++) {
+    for (int i = 0; i < stats->items_limit && !stop_flag; i++){
         struct timespec start, end;
         clock_gettime(CLOCK_MONOTONIC, &start);
 
@@ -32,11 +32,12 @@ void* consumer(void* arg) {
                  stats->total_wait_time / stats->items_consumed);
         log_event(msg);
 
-        sleep(2);
+        sleep(stats->sleep_delay);
     }
 
+
     char msg[64];
-    snprintf(msg, sizeof(msg), "Waiter %d finished shift.", stats->thread_id);
+    snprintf(msg, sizeof(msg), "Waiter %d finished shift.",stats->thread_id);
     log_event(msg);
 
     return NULL;
