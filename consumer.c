@@ -1,5 +1,5 @@
-#define _POSIX_C_SOURCE 199309L //fixed CLOCK_MONOTONIC error
 #include <stdio.h>
+#define _POSIX_C_SOURCE 199309L //fixed CLOCK_MONOTONIC error
 #include <time.h>
 #include <unistd.h>
 #include "buffer.h"

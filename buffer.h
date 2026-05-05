@@ -7,7 +7,7 @@
 extern int buffer[SIZE];
 extern int in, out, count;
 extern pthread_mutex_t lock;
-extern sem_t *full, *empty;
+extern sem_t full, empty;
 
 void init();
 void insert(int item);
