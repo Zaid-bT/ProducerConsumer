@@ -667,7 +667,7 @@ static void build_startup_dialog(void) {
         const char* hint;
         double      min, max, val;
         GtkWidget** spin_ptr;
-    } fields[] = {
+    } fieldgits[] = {
         { "Buffer size",         "5 – 50 slots",     5,  50, 10, &spin_buf_size  },
         { "Producer threads",    "1 – 10 waiters",   1,  10,  2, &spin_producers },
         { "Consumer threads",    "1 – 10 chefs",     1,  10,  2, &spin_consumers },
